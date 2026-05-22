@@ -18,7 +18,10 @@ based on user preferences and ratings.
 - /images → charts and visualizations
 
 ##  Dataset
-MovieLens Dataset from Kaggle
+MovieLens Small Latest Dataset — 9,742 movies, 100,836 ratings
 
+
+## Progress
+- [x] Week 1 — Dataset loaded, SQL database created, queries written
 ##  Status
-🟡 In Progress
+In Progress — Week 1 Complete
